@@ -1,0 +1,6 @@
+[
+  { "id": "1", "type": "invoice", "amount": "125.00", "currency": "USD" },
+  { "id": "2", "type": "withdrawal", "amount": "85.00", "currency": "USD" },
+  { "id": "3", "type": "deposit", "amount": "200.00", "currency": "USD" },
+  { "id": "4", "type": "invoice", "amount": "350.00", "currency": "USD" }
+]
