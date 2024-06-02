@@ -2,14 +2,14 @@
   "name": "react-playground",
   "private": true,
   "version": "0.0.0",
-  "deploy": "gh-pages -d dist",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "homepage": "https://Sebastian1910.github.io/goit=react-hw-01-components/"
+    "homepage": "https://Sebastian1910.github.io/goit=react-hw-01-components/",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
