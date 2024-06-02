@@ -1,6 +1,7 @@
 {
   "name": "react-playground",
   "private": true,
+  "deploy": "gh-pages -d dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
